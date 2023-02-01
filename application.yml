@@ -1,4 +1,8 @@
 
+spring:
+    application:
+       name: Config-Default
+
 #Eureka Seeting
 eureka:
    instance:
